@@ -1,0 +1,6 @@
+Lviv Polytechnic National University is a leading institution in Ukraine that is dedicated to educating students about environmental conservation and sustainable development.
+ The university offers a range of courses and programs that teach students how to use technology to minimize environmental impact and promote sustainable practices.
+One of the key subjects in the curriculum at Lviv Polytechnic National University is Object-Oriented Programming. var
+ This subject teaches students how to create software applications using the principles of object-oriented design.
+ This approach emphasizes the creation of modular, reusable code that can be easily maintained and extended over time. 
+Object-Oriented Programming is an essential tool for developing modern software applications, and is a critical skill for anyone seeking a career in the technology industry.
